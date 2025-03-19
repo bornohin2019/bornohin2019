@@ -1,5 +1,5 @@
 <h1 align="center">Md. Rabbani Mia</h1>
-<h3 align="center">Junior Web Developer | Laravel | React.js | PHP | MySQL</h3>
+<h3 align="center">Junior Web Developer | Laravel | React | PHP | MySQL | JavaScript</h3>
 
 <p align="center">
   <a href="https://rabbani.top" target="_blank">🌐 Portfolio</a> • 
@@ -11,16 +11,16 @@
 ---
 
 ## 👨‍💻 About Me
-I am a **Junior Web Developer** with a passion for building secure and scalable web applications. I specialize in **Laravel**, **React.js**, and **PHP**, with a strong understanding of full-stack development. I am dedicated to writing clean, efficient code and continuously improving my skills.
+I am a **Junior Web Developer** with a passion for building secure and scalable web applications. I specialize in **Laravel**, **React**, **PHP** and **JavaScript**, with a strong understanding of full-stack development. I am dedicated to writing clean, efficient code and continuously improving my skills.
 
 - 🎓 **Diploma in Computer Science**, Dinajpur Polytechnic Institute (GPA 3.62/4)
 - 🏆 **Certified Web Application Developer** – ISDB BISEW Program
-- 🛠️ Experienced in building modern applications using Laravel, React.js, and MySQL
+- 📊 Experienced in building modern applications using Laravel, React.js, MySQL, PHP and JavaScript
 - 💡 Always eager to learn new technologies and frameworks
 
 ---
 
-## 🛠️ Skills
+##  Skills
 - **Languages**: PHP, JavaScript (ES6+), SQL
 - **Frameworks**: Laravel, React.js, Bootstrap
 - **Database**: MySQL
@@ -78,7 +78,7 @@ I am a **Junior Web Developer** with a passion for building secure and scalable 
 
 - 🎓 **Diploma in Computer Science**, Dinajpur Polytechnic Institute (GPA 3.62/4)
 - 🏆 **Certified Web Application Developer** – ISDB BISEW Program
-- 🛠️ Experienced in building modern applications using Laravel, React.js, and MySQL
+- 📊 Experienced in building modern applications using Laravel, React.js, MySQL, PHP, and JavaScript
 - 💡 Always eager to learn new technologies and frameworks
 
 ---
